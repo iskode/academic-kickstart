@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Deep Learning",
+    "Medical Imaging"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Medical Image Analysis using Machine Learning"
+  institution = "Faculté des Sciences, Université Moulay Ismail"
+  year = "in progress"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Digital Image Processing"
+  institution = "Faculté des Sciences, Université Moulay Ismail"
+  year = 2013
+
+[[education.courses]]
+  course = "BSc in Mathematics and applications"
+  institution = "Faculté des Sciences, Université Moulay Ismail "
   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am Ismaël Koné from Côte d'Ivoire, currently PhD student at Faculté des Sciences - Université Moulay Ismail in Meknès, Morocco. My research focuses on using Artificial Intelligence specifically Machine/Deep learning techniques for Medical Image Analysis. I mainly work on 3D cine-cardiac MR images for cardiac disease diagnosis like heart failure and histology images of women breast for early cancer detection.
